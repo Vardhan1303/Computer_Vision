@@ -48,18 +48,18 @@ Below are a few example images showing the result of overlaying the poster onto 
 
 - Image 1: ArUco Marker Detection
 
-![ArUco Marker Detection](room_with_aruco_marker/20221115_113424.jpg)
-![ArUco Marker Detection](room_with_aruco_marker/20221115_113440.jpg)
+<img src="room_with_aruco_marker/20221115_113424.jpg" alt="ArUco Marker Detection" width="400">
+<img src="room_with_aruco_marker/20221115_113440.jpg" alt="ArUco Marker Detection" width="400">
 
 - Image 2: Poster Overlayed on ArUco Marker
 
-![Poster Overlayed](poster_overlayed/result_image_20221115_113424.jpg)
-![Poster Overlayed](poster_overlayed/result_image_20221115_113440.jpg)
+<img src="poster_overlayed/result_image_20221115_113424.jpg" alt="Poster Overlayed" width="400">
+<img src="poster_overlayed/result_image_20221115_113440.jpg" alt="Poster Overlayed" width="400">
 
 - Image 3: Evaluation of the Poster Placement
 
-![Poster Evaluation](evaluation/20221115_113424.jpg)
-![Poster Evaluation](evaluation/20221115_113440.jpg)
+<img src="evaluation/20221115_113424.jpg" alt="Poster Evaluation" width="400">
+<img src="evaluation/20221115_113440.jpg" alt="Poster Evaluation" width="400">
 
 ## Conclusion
 
