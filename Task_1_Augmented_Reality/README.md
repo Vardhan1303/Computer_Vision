@@ -29,3 +29,10 @@ This project implements augmented reality (AR) by overlaying poster images onto 
 - **`code/`**: Contains the Python scripts for marker detection, transformation, and merging.  
 - **`report/`**: Includes the detailed file named details.md.  
 - **`poster_overlayed/`**: Contains images demonstrating the project output.
+
+## Acknowledgments
+
+I would like to express my gratitude to the following resources and individuals for their invaluable support and guidance during this project:
+
+- [OpenCV Documentation](https://docs.opencv.org/): For providing comprehensive documentation and examples that greatly assisted in developing the algorithms and code for this project.
+- Prof. Dr. Stefan Elser: For providing the dataset and mentoring throughout the project.
