@@ -48,13 +48,15 @@ Below are a few example images showing the result of overlaying the poster onto 
 
 - Image 1: ArUco Marker Detection
 
-<img src="room_with_aruco_marker/20221115_113424.jpg" alt="ArUco Marker Detection" width="400">
-<img src="room_with_aruco_marker/20221115_113440.jpg" alt="ArUco Marker Detection" width="400">
+<div style="display: flex; justify-content: space-around;">
+  <img src="room_with_aruco_marker/20221115_113424.jpg" alt="ArUco Marker Detection 1" width="45%">
+  <img src="room_with_aruco_marker/20221115_113440.jpg" alt="ArUco Marker Detection 2" width="45%">
+</div>
 
 - Image 2: Poster Overlayed on ArUco Marker
 
-<img src="poster_overlayed/result_image_20221115_113424.jpg" alt="Poster Overlayed" width="400">
-<img src="poster_overlayed/result_image_20221115_113440.jpg" alt="Poster Overlayed" width="400">
+<img src="poster_overlayed/result_image_20221115_113424_0.jpg" alt="Poster Overlayed" width="400">
+<img src="poster_overlayed/result_image_20221115_113440_0.jpg" alt="Poster Overlayed" width="400">
 
 - Image 3: Evaluation of the Poster Placement
 
