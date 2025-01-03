@@ -4,8 +4,7 @@
 This project implements augmented reality (AR) by overlaying poster images onto real-world scenes using ArUco markers. Using the OpenCV library, the program detects markers, calculates transformation matrices, and seamlessly integrates posters into captured images.
 
 ## Authors
-- **Vardhan Vinodbhai Mistry**  
-- **Vaibhav Badgujar**  
+- **Vardhan Vinodbhai Mistry**  & **Vaibhav Badgujar** 
 - **Guided by:** Prof. Dr. Stefan Elser  
 
 ## Key Steps
